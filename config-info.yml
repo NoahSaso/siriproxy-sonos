@@ -1,0 +1,10 @@
+    - name: 'Sonos'
+      path: './plugins/siriproxy-sonos'
+      sonos_ip: 'WEBSERVER IP'
+      sonos_port: 'WEBSERVER PORT'
+      sonos_room1: 'kitchen' #Only use 1 word (and no caps)
+      sonos_room2: 'patio' #Only use 1 word (and no caps)
+      sonos_room3: 'porch' #Only use 1 word (and no caps)
+      sonos_room4: 'dining' #Only use 1 word (and no caps)
+      sonos_room5: 'master' #Only use 1 word (and no caps)
+      sonos_room6: 'living' #Only use 1 word (and no caps)
